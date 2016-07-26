@@ -1,0 +1,8 @@
+name             'sprout-atom'
+maintainer       'Fernando'
+maintainer_email 'fernandoasfj@gmail.com'
+license          'MIT'
+description      'Cookbook for managing ruby related settings'
+version          '0.0.1'
+supports         'mac_os_x'
+depends          'homebrew'
