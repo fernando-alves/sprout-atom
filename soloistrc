@@ -1,3 +1,9 @@
 recipes:
 
 - sprout-atom::install
+- sprout-atom::packages
+
+node_attributes:
+  atom:
+    packages:
+      - atom-ctags
