@@ -1,7 +1,7 @@
 SITE
   remote: https://supermarket.getchef.com/api/v1
   specs:
-    build-essential (6.0.2)
+    build-essential (6.0.3)
       compat_resource (>= 12.10)
       mingw (>= 1.1)
       seven_zip (>= 0.0.0)
@@ -9,7 +9,7 @@ SITE
     compat_resource (12.10.7)
     homebrew (2.1.0)
       build-essential (>= 2.1.2)
-    mingw (1.2.3)
+    mingw (1.2.4)
       compat_resource (>= 0.0.0)
       seven_zip (>= 0.0.0)
     seven_zip (2.0.1)
@@ -20,8 +20,8 @@ SITE
 PATH
   remote: .
   specs:
-    sprout-atom (2.1.0)
-      build-essential (>= 2.1.2)
+    sprout-atom (0.0.1)
+      homebrew (>= 0.0.0)
 
 DEPENDENCIES
   homebrew (>= 0)
